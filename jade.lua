@@ -1,12 +1,3 @@
---[[
-
-    jade ui library
-    forked from nulare's library
-    by @scxllc on discord
-
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/scxllc/jade/main/jade.lua'))()
-
-]]
 
 UILib = {
     _font_face = Drawing.Fonts.UI,
