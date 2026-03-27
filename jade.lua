@@ -1,5 +1,5 @@
 
-UILib = {
+local UILib = {
     _font_face = Drawing.Fonts.UI,
     _font_size = 13,
     _drawings = {},
